@@ -342,7 +342,9 @@ header .navbar ul li a.active::before{
     bottom: 0px;
     position: absolute;
 }
-
+.project .card-deck{
+    margin-bottom: 20px;
+}
 .eye-btn{
     border: 1px solid #eeeeee;
     padding: 10px;
