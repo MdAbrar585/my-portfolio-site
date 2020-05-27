@@ -22,6 +22,7 @@ body{
     flex-wrap: wrap;
 }
 header{
+    height: 80px;
     position: absolute;
     left: 0px;
     right: 0px;
@@ -317,6 +318,10 @@ header .navbar ul li a.active::before{
 }
 
 /* Projects */
+.project{
+    padding:100px 15px;
+    background-color: #ffffff;
+}
 
 .project .section-title h1{
     display: inline-block;
